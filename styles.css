@@ -1,0 +1,30 @@
+  body {
+    background-color: #EAF6F6;
+  }
+
+  h1 {
+    color: #66BFBF
+  }
+  h1:hover {
+    color: gold
+  }
+  h3 {
+    color: #66BFBF
+  }
+  h3:hover{
+  color: Gold
+  }
+  }
+
+  hr {
+    background-color: white;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 10%;
+  }
+
+  .circular{
+    border-radius: 100%;
+  }
